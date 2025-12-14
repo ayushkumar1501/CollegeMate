@@ -52,7 +52,7 @@ const ResetPassword = () => {
           <div>
             <label className="block text-light-400 text-sm mb-2">New Password</label>
             <div className="relative">
-              <FiLock className="absolute left-3 top-1/2 -translate-y-1/2 text-light-400" />
+              <FiLock className="absolute left-10 top-1/2 -translate-y-1/2 text-light-400" />
               <input
                 type="password"
                 value={password}
@@ -67,7 +67,7 @@ const ResetPassword = () => {
           <div>
             <label className="block text-light-400 text-sm mb-2">Confirm Password</label>
             <div className="relative">
-              <FiLock className="absolute left-3 top-1/2 -translate-y-1/2 text-light-400" />
+              <FiLock className="absolute left-10 top-1/2 -translate-y-1/2 text-light-400" />
               <input
                 type="password"
                 value={confirmPassword}
