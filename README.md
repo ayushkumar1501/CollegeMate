@@ -138,17 +138,14 @@ RAZORPAY_KEY_SECRET=your_live_secret
 EMAIL_USER=your_email@gmail.com
 EMAIL_PASSWORD=your_app_password
 EMAIL_FROM=CollegeMate <your_email@gmail.com>
-CLIENT_URL=https://collegemate.in
-SERVER_URL=https://collegemate-api.onrender.com
+CLIENT_URL=
+SERVER_URL=
 ADMIN_NOTIFICATION_EMAIL=abhiself28@gmail.com
-ADMIN1_EMAIL=ayushk2k23@gmail.com
-ADMIN1_NAME=Ayush Kumar
-ADMIN1_PHONE=9060618259
-ADMIN1_PASSWORD=@Passworddd123
-ADMIN2_EMAIL=abhiself28@gmail.com
-ADMIN2_NAME=Abhishek Ranjan
-ADMIN2_PHONE=6207065181
-ADMIN2_PASSWORD=@Passworddd123
+ADMIN1_EMAIL=
+ADMIN1_NAME=
+ADMIN1_PHONE=
+ADMIN1_PASSWORD=
+//similarly for ADMIN2
 ```
 
 6. Deploy and note your backend URL (e.g., `https://collegemate-api.onrender.com`)
